@@ -1,0 +1,15 @@
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/bin/Debug/net7.0/HelloPanet2
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/bin/Debug/net7.0/HelloPanet2.deps.json
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/bin/Debug/net7.0/HelloPanet2.runtimeconfig.json
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/bin/Debug/net7.0/HelloPanet2.dll
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/bin/Debug/net7.0/HelloPanet2.pdb
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.csproj.AssemblyReference.cache
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.AssemblyInfoInputs.cache
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.AssemblyInfo.cs
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.csproj.CoreCompileInputs.cache
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.dll
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/refint/HelloPanet2.dll
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.pdb
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/HelloPanet2.genruntimeconfig.cache
+/Users/sandywoods/Projects/HelloPanet2/HelloPanet2/obj/Debug/net7.0/ref/HelloPanet2.dll
