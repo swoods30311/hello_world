@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{EC79E7A9-26F3-48BE-8BFA-AAD0A662D04E}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloPanet2/Program.cs">
     <Files>
-      <File FileName="HelloPanet2/Program.cs" Line="4" Column="1" />
+      <File FileName="HelloPanet2/Program.cs" Line="22" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelloPanet2" expanded="True">
+          <Node name="HelloPanet2" expanded="True" selected="True">
             <Node name="HelloPanet2" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.HelloPanet2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

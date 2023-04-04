@@ -6,24 +6,31 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            //Turning a byte to an integer happens implicitly b/c there is no data lost
-            byte b = 1; //                           00000001
-            int i = b; // 00000000 00000000 00000000 00000001
 
-            double num = 89;
-            //Explicit casting 
-            int data = (int)num;//As oppose to int data = num
-            Console.WriteLine(data);
+            byte numOne = 3;
+            byte numTwo = 8;
 
-            long number = 18;
-            short numerical = (short)number;// look @ it like (short)number represents the transition from previous data type to current on
+            Console.WriteLine(numTwo % numOne == 0);
+            Console.WriteLine(numTwo / numOne);
+            Console.WriteLine(numTwo != numOne);
 
-            Console.WriteLine(number);
+            if (numTwo > numOne && numTwo % numOne ==0)
+            {
+                Console.WriteLine("This number set is the --it");
+            }
+            else
+            {
+                Console.WriteLine("F the world");
+            }
 
-
-
-
-
+            if (numTwo > numOne ||numTwo % numOne == 0)
+            {
+                Console.WriteLine("This number set is the --it");
+            }
+            else
+            {
+                Console.WriteLine("F the world");
+            }
 
         }
     }
