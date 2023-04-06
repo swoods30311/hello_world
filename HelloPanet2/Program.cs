@@ -8,13 +8,16 @@ namespace Variables
         {
             string name = "Big Slime";
 
-            static void greetings(string name)
+            static string greetings(string name)
             {
                 // code to be executed
-                Console.WriteLine("What it do? " + name);
+                return "What it do " + name + "?";
+
             }
 
-            greetings(name);
+            Console.WriteLine(greetings(name));
+
+            
         }
 
         }
