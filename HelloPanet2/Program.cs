@@ -6,32 +6,17 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+            string name = "Big Slime";
 
-            byte numOne = 3;
-            byte numTwo = 8;
-
-            Console.WriteLine(numTwo % numOne == 0);
-            Console.WriteLine(numTwo / numOne);
-            Console.WriteLine(numTwo != numOne);
-
-            if (numTwo > numOne && numTwo % numOne ==0)
+            static void greetings(string name)
             {
-                Console.WriteLine("This number set is the --it");
-            }
-            else
-            {
-                Console.WriteLine("F the world");
+                // code to be executed
+                Console.WriteLine("What it do? " + name);
             }
 
-            if (numTwo > numOne ||numTwo % numOne == 0)
-            {
-                Console.WriteLine("This number set is the --it");
-            }
-            else
-            {
-                Console.WriteLine("F the world");
-            }
+            greetings(name);
+        }
 
         }
     }
-}
+
