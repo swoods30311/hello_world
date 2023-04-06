@@ -6,18 +6,9 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            string name = "Big Slime";
+            Console.WriteLine(Math.PI);
+            Console.WriteLine(Math.Sqrt(16));
 
-            static string greetings(string name)
-            {
-                // code to be executed
-                return "What it do " + name + "?";
-
-            }
-
-            Console.WriteLine(greetings(name));
-
-            
         }
 
         }
